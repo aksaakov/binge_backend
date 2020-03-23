@@ -33,7 +33,10 @@
       "via": "related",
       "plugin": "upload"
     },
-    "Destinations": {
+    "Locations": {
+      "type": "text"
+    },
+    "Metadata": {
       "type": "text"
     }
   }
